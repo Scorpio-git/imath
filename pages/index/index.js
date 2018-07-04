@@ -50,5 +50,10 @@ Page({
       userInfo: e.detail.userInfo,
       hasUserInfo: true
     })
+  },
+  // 开始挑战
+  startGame:function(e){
+
   }
+
 })

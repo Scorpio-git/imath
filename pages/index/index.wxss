@@ -19,3 +19,7 @@
 .usermotto {
   margin-top: 200px;
 }
+.tui-btn-content{
+  height: 60px;
+  line-height: 60px;
+}
